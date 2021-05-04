@@ -1,0 +1,2 @@
+To test, run python BasicServer.py
+Go to http://localhost:8080/?query=string, and you will receive the query parameters as a string.
